@@ -1,0 +1,12 @@
+{
+    "name": "CarePlus Clinic",
+    "address": "Main Road, Karachi, Pakistan (demo address)",
+    "phone": "0300-1234567 (demo number)",
+    "hours": "Monday to Saturday, 9:00 AM to 6:00 PM",
+    "fees": "Please contact the clinic for current fees.",
+    "services": [
+        "General consultation",
+        "Routine checkups",
+        "General health consultations"
+    ]
+}

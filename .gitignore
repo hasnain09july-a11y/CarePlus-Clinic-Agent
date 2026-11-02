@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+appointment_requests.json
+.venv/
+venv/
+.env
